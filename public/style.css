@@ -1,0 +1,41 @@
+:root{
+    /* Variables used in the CSS */
+    --textColor: #000000;
+}
+
+body{
+    background-color: #a4a4a4;
+    color: #ffffff;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    margin: 0px;
+    overflow-y: scroll;
+}
+.header{
+    background-color: #0766ff;
+    border-bottom: 1px solid #0766ff;
+    height: 50px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    padding-left: 5%;
+    padding-bottom: 2%;
+    display: grid;
+    grid-template-columns: auto auto auto auto; 
+
+}
+.main{
+    margin-top:5%;
+}
+
+h1{
+    color: var(--textColor);
+}
+h2{
+    color: var(--textColor);
+}
+p{
+    color: var(--textColor);
+}

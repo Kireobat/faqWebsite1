@@ -1,0 +1,202 @@
+[
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.00.58",
+   "Spørsmål:": "Hvordan kan jeg publisere nettsiden min på Github?",
+   "Svar:": "Gå først inn på Github. Se til høyre ved \"Recent Repositories\" og trykk \"New\". Der lager du navn og helst en beskrivelse, og du kan velge om din nye repository skal være offentlig eller privat. Er du ferdig, blar du ned og trykker \"Create Repository\". Under \"Quick setup\" finner du to koblinger. Hvis du allerede har filene til en nettside, trykker du det andre valget. Så drar du inn filene fra mappen nettsiden din sitter i, og trykker \"Commit changes\" nederst. Pass på at hovedsiden heter Index.html i mappen!"
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.00.59",
+   "Spørsmål:": "Hva er den beste måten å lære seg å kode?:",
+   "Svar:": "Den beste måten å lære seg å kode er å lære av andre og jobbe med det på fritiden. Det kan også være god øvelse og lære vekk det du kan til andre og."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.01.10",
+   "Spørsmål:": "Jeg glemte å låse PCen, og noen tullet med høykontrasten slik at jeg ikke kan se noe annet enn hvitt. Hva kan jeg gjøre?",
+   "Svar:": "Hvis du enda er logget inn, kan du trykke Windows + L for å låse. Fra låseskjermen trykker du uansett knapp én gang for å få fram passord-boksen. Derfra trykker du Shift + Tab tre ganger, så Enter. Deretter går du ned tre ganger med piltastene, så Enter for å skru av høykontrast. Til slutt kan du se om noen har lekt seg med noen av de andre innstillingene der."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.01.20",
+   "Spørsmål:": "Er det lov å sove i timen?",
+   "Svar:": "Nei, men du kan spørre en lærer om å låse deg inn på rommet der du kan sove dersom du er sliten."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.01.24",
+   "Spørsmål:": "Hvilke program er best å bruke får å kode?:\n",
+   "Svar:": "Den beste i min mening er Visual Studio Code, men Notepad++ kan også være en mulighet."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.01.30",
+   "Spørsmål:": "Jeg har problemer med å finne på flere spørsmål. Hva er noen gode råd?",
+   "Svar:": "Vi har for øyeblikket ikke nok informasjon om dette fenomenet, så vi kan heller ikke finne på noe svar til det. Denne siden vil bli oppdatert så snart svaret er funnet!"
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.01.39",
+   "Spørsmål:": "Er det dumt å låne kode fra andre?",
+   "Svar:": "Det går fint å låne kode fra andre så lenge du spør om det, og\nforstår koden selv."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.01.56",
+   "Spørsmål:": "Hva slags utdanning kan du få med IT-linjen?",
+   "Svar:": "Hvis du utdanner deg vi IT-linjen kan du utdanne deg til å bli utvikler eller drift. Du vil også lære om brukerstøtte som du mest sannsynlig vil møte i starten av lærling tiden din."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.02.10",
+   "Spørsmål:": "Går det fint å spille i timen?",
+   "Svar:": "Unngå spilling i timen, det kan være vanedannende og gjøre det\nvanskelig for deg å følge med."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.02.35",
+   "Spørsmål:": "Hvordan løser jeg {insert problem here}",
+   "Svar:": "De aller fleste problemer kan løses med google, handler problemet om noe med programmering finner du som regel svar på stackoverflow. Hvis du ikke finner svar på nettet, kan du også spørre folk rundt deg."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.02.37",
+   "Spørsmål:": "Hvilke kode språk er det mest brukfor?:",
+   "Svar:": "HTML, CSS og JavaScript er veldig ofte brukte språk, men Python og C#/C++ er også en viktig del får scripting."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.02.56",
+   "Spørsmål:": "Jeg fikk en error, hvordan vet jeg hvor den kommer fra?",
+   "Svar:": "Som regel når du får en error må du se etter navnet på en av filene dine, vis du finner det vil det som regel stå et linjenummer ved siden av som sier hvor erroren kommer fra. F. eks. 'index.js:32' (det er da altså en feil på linje 32)"
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.03.14",
+   "Spørsmål:": "JS koden på nettsiden min virker ikke som den skal, hvordan kan jeg se hva som er galt?",
+   "Svar:": "For å se feilmeldinger i nettleseren kan du trykke F12 eller Ctrl + Shift + i for å åpne DevTools, deretter navigerer du til 'Console' hvor du kan se feilmeldingene fra koden din."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.04.24",
+   "Spørsmål:": "Hvordan feilsøke koden din",
+   "Svar:": "Som oftest hvis du har noen errorer i koden din kommer det opp under problemer/problems vinduet i visual studio code, som du kan åpne ved å trykke på krysset og trekanten nede i høyre gjørne. Der vil det stå hvilke linje erroren er på og hva som er feil, Du kan også søke på erroren på google for å finne svar på hva som kan være feil med koden din, Hvis du har logger til koden din kan du også se gjennom de for å se hvor og hva feilen er."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.04.41",
+   "Spørsmål:": "Kan jeg bruke telefon i timen?",
+   "Svar:": "det varier. vanligvis så er det ikke lov men flere lærere reagerer ikke på om at du bruker den."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.05.00",
+   "Spørsmål:": "Hvordan bruker man github?",
+   "Svar:": "\n\nGithub er et versjonerings program man kan bruke for holde styr over forskjellige versjoner av koden din.\nMan kan også bruke det om man skal sammarbeide på et prosjekt. Kanskje den enkleste måten å bruke Github på\ner å laste ned og bruke Github Desktop. Det er et program som lar deg laste opp og laste ned filer fra Github.\n\nEt godt eksempel på hvordan man kan sammarbeide med Github er BetterSchool prosjektet som Sindre har drevet med.\n\nHer er noen gode resurser på hvordan bruke Github:\nhttps://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop "
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.05.20",
+   "Spørsmål:": "Er det lurt å fortale PCen ulåst?",
+   "Svar:": "Nei, dette er en av de værste tingene du kan gjøre i ditt liv. Om du glemmer å låse PCen er det stor sansynnlighet\nfor at du blir offer for litt trolling. Dette kan inkludere, men ikke begrenset til:\nSkru på High contrast mode og sette alle fargene til samme.\nScreenshote desktopen for å deretter snu den slik at du ikke legger merke til det.\nOm du har trådløs mus kan du også oppleve at andre stjeler batteriet til den."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.05.37",
+   "Spørsmål:": "Hvor kan jeg lære om javascript?",
+   "Svar:": "En av de mest informative nettsidene når det gjelder javascript er w3shools. De har forklaringer og kode\neksempeler på det meste. Hvis du ikke finner det du lurer på på w3shools kan du\nenten spørre noen på 2ITK eller søke andre steder på nettet.\n\nHer er noen lenker:\nhttps://www.w3schools.com/js/default.asp"
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.05.38",
+   "Spørsmål:": "Hvordan laste ned “extensions” i visual studio code",
+   "Svar:": "Du trykker på knappen med fire bokser på høyre siden, da vil det komme opp en søke bar der du skriver inn navnet på utvidelsen du har lyst på Når du har funnet utvidelsen, trykker du på den og trykker “install” Noen utvidelser jeg foreslår er Prettier - Code formatter, Live Preview og Live Sever"
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.05.45",
+   "Spørsmål:": "Hvilke programmeringspråk skal vi lære om?",
+   "Svar:": "Vi har lært oss om å lage nettsider med HTML og CSS, opprette databaser med PhP og SQL og mer fleksible språk som JavaScript og Python."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.05.55",
+   "Spørsmål:": "Hvordan kan jeg bli bedre på HTML & CSS?",
+   "Svar:": "Sett deg ned uten for skolen og hold på med det på en måte som interesserer deg."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.05.59",
+   "Spørsmål:": "Hva er viktig å vite når man koder?",
+   "Svar:": "Syntax er veldig viktig. Det er på en måte grammatikken til programmeringspråket. Effektiv og forståelig kode er spesielt viktig når man jobber med andre."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.06.11",
+   "Spørsmål:": "Hva er den mest irriterende tingen med å kode?",
+   "Svar:": "Å glemme å skrive et tegn som ; eller , noen ganger så kommer ikke de opp som feil, men koden din vil fortsatt ikke fungere."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.06.14",
+   "Spørsmål:": "Er det noe generelle tips som er lurt å vite?",
+   "Svar:": "Når man jobber blant folk, er det lurt å ikke la pc'en stå åpen. Folk kan stjele informasjon og bryte privatheten din. Dette går også ut på venner, siden de kan tulle med pc'en din."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.06.22",
+   "Spørsmål:": "Hvordan kommentere kode",
+   "Svar:": "Når du kommenterer kode bør du skrive kort å presist hva det stykke med kode du kommenterer gjør. Du burde gi variablene dine forståelige navn\n\nDet finnes gode visual studio code extensions for kommentering av kode, blant annet mintlify doc writer"
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.06.24",
+   "Spørsmål:": "Hva er det farligste jeg kan gjøre når jeg er på skolen?",
+   "Svar:": "Å la pc-en stå på så en annen i klassen kan tukle med den."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.06.31",
+   "Spørsmål:": "Burde jeg kopiere kode jeg finner fra andre?",
+   "Svar:": "Å kopiere kode kan være en veldig bra måte å lære koding. Hvis man tar seg litt tid til å studere koden og forstå hva den gjør kan gjøre fremtidlige prosjekter lettere. Bare husk å forstå koden før man går videre."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.06.33",
+   "Spørsmål:": "Er det viktig med praksis på vg1?",
+   "Svar:": "Det er viktig med praksis på vg2 fordi du får jobb erfaring som kan være relevant når du skal søke jobb om noen år."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.06.39",
+   "Spørsmål:": "Hva skjer hvis jeg ikke får en praksis plass?",
+   "Svar:": "Første året er ikke så viktig, men hvis du ikke har praksis kan du ha et proskjet for det selv som å lage spill."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.06.47",
+   "Spørsmål:": "Burde man jobbe med koding hjemme også?",
+   "Svar:": "Hvis du har lite erfaring med koding, kan det være lurt å jobbe litt hjemme. Det trenger ikke være noe avansert, bare et enkelt prosjekt som å lage en kalkulater eller en enkel nettside."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.06.55",
+   "Spørsmål:": "Hva er smart å planlegge i vg1?",
+   "Svar:": "Du burde alerede sikre en praktikant plass før sommeren som du kan ha på vg2."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.07.03",
+   "Spørsmål:": "Er vg2 veldig vanskelig?",
+   "Svar:": "Vg2 kan virke som en god del vanskeligere for enkelte, men så lenge man følger med i timen og engasjerer seg, så går det mest sansynligvis bra.\n"
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.07.06",
+   "Spørsmål:": "Burde jeg bry meg om Prod. og historiefortellingsfaget, hvis jeg skal gå it?",
+   "Svar:": "Du kommer til å ha det veldig gøy med all filmingen og jeg kan garantere at du vil savne det når du går it."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.07.19",
+   "Spørsmål:": "Hvordan kan jeg komme meg unna med gaming i timen?",
+   "Svar:": "\nHvis du kan få tak i et eksemplar av fjordårets Amalie Skram årbok, så lagde Ravn Aresønn Glambek en side om akkurat dette."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.07.22",
+   "Spørsmål:": "Hvordan unngå å ende opp med for mye arbeid?",
+   "Svar:": "Hvis du ikke vil ende opp med for mye arbied hjemme eller på skolen bør man jobbe effektivt i timen og bruke tiden bra. Det er heller ikke lurt å spille i timen."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.07.34",
+   "Spørsmål:": "Hva er det beste å gjøre i gruppe arbeid?",
+   "Svar:": "Prøv å bli ferdig med oppgaven så skjaps så mulig, og så etterpå kan dere kødde dere rundt."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.07.38",
+   "Spørsmål:": "Begynn enkelt",
+   "Svar:": "Det er viktig å begynne enkelt. Ikke tenk at du skal lage det neste Microsoft. Gjør deg selv kjent med datamaskinen og dens egenskaper. Lær deg forskjellige kodespråk som html, css og javascipt."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.07.51",
+   "Spørsmål:": "Er det forskjell på hvilken lærer du har?",
+   "Svar:": "\nJa, når det kommer til programmering så liker forskjellige lærere forskjellige ting. For eksempel noen liker mye kommentarer i koden, mens noen vil ha det mer simpelt. Så pass på at du vet hva din lærer liker."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.08.01",
+   "Spørsmål:": "Tenk på utseende og design på nettsiden din",
+   "Svar:": "Ikke tenk at nettsiden bare skal fungere. Den må også være brukervennlig og oversiktlig. Bruk ulike fargekombinasjoner, bilder og former for å gjøre nettsiden så attraktiv som mulig."
+ },
+ {
+   "Tidsmerke": "27.09.2022 kl. 11.08.32",
+   "Spørsmål:": "jeg er ferdig med arbeided men jeg vil gjøre mer. hva muligheter har jeg?",
+   "Svar:": "for koding relaterte ting så kan du ta å prøve å komme på en enkel ting som er mulig å kode. som for eksempel et matte spill. ettersom dette kan gi deg mer ferdigheter samtidig som det kan være litt gøyt."
+ }
+]
