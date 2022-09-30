@@ -9,6 +9,7 @@ const hbs = require('hbs');
 
 const dataPath = path.join(__dirname, '../data');
 const viewPath = path.join(__dirname, '../views/pages');
+const partialsPath = path.join(__dirname, '../views/pages/partials');
 const publicDirPath = path.join(__dirname, '../public');
 const port = 80;
 const app = express();
@@ -17,6 +18,7 @@ const app = express();
 
 app.set('views',viewPath);
 app.set('view engine', hbs);
+hbs.registerPartials(partialsPath);
 app.use(express.static(publicDirPath));
 
 //------------------Load data------------------//
@@ -29,6 +31,19 @@ function loadData() {
 }
 
 let data = loadData();
+
+//------------------ Filtering String ------------------//
+
+raw = JSON.stringify(data, null, 2);
+
+str = raw.replace(/{/g, " ");
+str = str.replace(/}/g, " ");
+str = str.replace(/"Spørsmål"/g, " ");
+str = str.replace(/"Svar"/g, " ");
+str = str.replace(/:/g, " ");
+str = str.replace(/,/g, "");
+str = str.replace(/"/g, "");
+
 
 //------------------Routes------------------//
 
@@ -50,7 +65,7 @@ function faqRoute(req, res) {
     res.render('faq.hbs',{
         title: 'Kireobat.eu',
         type: 'FAQ',
-        info: data
+        info: str
     });
 }
 
